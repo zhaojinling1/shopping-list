@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Store)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-18 07:46:45</sys_created_on>
+        <sys_id>f49c1be92fe86010b0ae309cf699b6a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Store)</sys_name>
+        <sys_package display_value="Shopping List" source="x_544093_shopping">90255f252fe86010b0ae309cf699b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">90255f252fe86010b0ae309cf699b643</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_f49c1be92fe86010b0ae309cf699b6a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-18 07:46:45</sys_updated_on>
+        <table>x_544093_shopping_store</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=f49c1be92fe86010b0ae309cf699b6a7"/>
+</record_update>
